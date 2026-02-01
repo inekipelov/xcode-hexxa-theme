@@ -1,5 +1,7 @@
 # Hexxa for Xcode
 
+<img src="Resources/hexxa-xcode-dark.jpg" alt="Hexxa Xcode Dark" style="max-width: 800px; width: 100%;">
+
 Packaged Hexxa Xcode color theme with bundled installer and Fira Code support. The Swift package copies the theme into Xcode's `FontAndColorThemes` directory and ensures the Fira Code fonts are available.
 
 ## Installation
