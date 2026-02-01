@@ -36,3 +36,8 @@ The installer also downloads the latest Fira Code release (currently v6.2) to `~
 1. Copy `Sources/HexxaXcodeTheme/Themes/Hexxa.xccolortheme`.
 2. Paste it into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`.
 3. Restart Xcode and select **Hexxa** in **Settings → Themes**.
+
+## Credits
+
+- VSCode theme: [diogomoretti/hexxa-theme](https://github.com/diogomoretti/hexxa-theme)
+- Author: [Diogo Moretti](https://github.com/diogomoretti)
